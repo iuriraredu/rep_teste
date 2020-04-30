@@ -1,11 +1,10 @@
 import javafx.scene.input.KeyCode;
-
 import javax.jnlp.IntegrationService;
 import java.util.Scanner;
 
 public class PrimeiraClasse {
     public static void main(String[] args) {
-        /*System.out.println("Hello World!");
+        System.out.println("Hello World!");
         variaveis();
         contador();
         exercicio1();
@@ -13,9 +12,9 @@ public class PrimeiraClasse {
         exercicio3();
         exercicio4();
         exercicio5();
-        fibonacci();*/
+        fibonacci();
         System.out.println(bhaskara(1, 4, -12));
-        //fibonacci2(144L);
+        fibonacci2(144L);
         System.out.println(startSmoking(0,1));
     }
 
